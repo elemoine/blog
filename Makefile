@@ -14,7 +14,7 @@ FTP_TARGET_DIR=/
 SSH_HOST=92.243.2.104
 SSH_PORT=22
 SSH_USER=admin
-SSH_TARGET_DIR=/var/www/htdocs
+SSH_TARGET_DIR=/var/www
 
 DROPBOX_DIR=~/Dropbox/Public/
 
