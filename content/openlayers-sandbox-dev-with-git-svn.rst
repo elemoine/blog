@@ -24,43 +24,36 @@ share your work. So I needed a way to have my experimental box is a
 sandbox while still managing my code with git-svn. And here's what I
 did.
 
-I started by creating a sandbox in the OpenLayers SVN repository:
+I started by creating a sandbox in the OpenLayers SVN repository::
 
-$ svn cp http://svn.openlayers.org/trunk/openlayers
-http://svn.openlayers.org/sandbox/elemoine/kinetic
+    $ svn cp http://svn.openlayers.org/trunk/openlayers http://svn.openlayers.org/sandbox/elemoine/kinetic
 
 Then, I added a new ``svn-remote`` in my OpenLayers Git repository's
-``.git/config``:
+``.git/config``::
 
-[svn-remote "svn-kinetic"]
+    [svn-remote "svn-kinetic"]
+    url = http://svn.openlayers.org/sandbox/elemoine/kinetic
+    fetch = :refs/remotes/git-svn-kinetic
 
-url = http://svn.openlayers.org/sandbox/elemoine/kinetic
+and fetched changes from that remote branch with::
 
-fetch = :refs/remotes/git-svn-kinetic
+    $ git svn fetch svn-kinetic -r 10884
 
-and fetched changes from that remote branch with:
+``10884`` is the number of the SVN revision created when the sandbox directory
+was built with ``svn cp``. This command created a remote branch named
+git-svn-kinetic, and listed when entering ``git branch -r``::
 
-$ git svn fetch svn-kinetic -r 10884
-
-``10884`` is the number of the SVN revision created when the sandbox
-directory was built with ``svn cp``. This command created a remote
-branch named git-svn-kinetic, and listed when entering ``git branch -r``
-
-$ git branch -r
-
-git-svn
-
-git-svn-kinetic
+    $ git branch -r
+    git-svn
+    git-svn-kinetic
 
 Then I checked out the freshly-created remote branch, and created a
-local branch from it:
+local branch from it::
 
-$ git checkout git-svn-kinetic
+    $ git checkout git-svn-kinetic
+    $ git checkout -b kinetic
 
-$ git checkout -b kinetic
-
-The local branch "kinetic" is bound to the remote branch
-"git-svn-kinetic", and "git svn dcommit" commands done with the
-"kinetic" branch checked out go to
-http://svn.openlayers.org/sandbox/elemoine/kinetic, which is exactly
-what I want.
+The local branch "kinetic" is bound to the remote branch "git-svn-kinetic", and
+"git svn dcommit" commands done with the "kinetic" branch checked out go to
+http://svn.openlayers.org/sandbox/elemoine/kinetic, which is exactly what
+I want.

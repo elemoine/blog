@@ -15,32 +15,32 @@ exceptions occur in these classes' methods.
 
 Our classes look like:
 
-.. raw:: html
+.. code-block:: javascript
 
-   <p>
-
-::
-
-    MyCtor = function() {};MyCtor.prototype = {    method: function(a, b) {        // do something with a and b    }};
-
-.. raw:: html
-
-   </p>
+    MyCtor = function() {};
+    MyCtor.prototype = {
+        method: function(a, b) {
+            // do something with a and b
+        }
+    };
 
 The common behavior is implemented at a single place in a decorator
 function:
 
-.. raw:: html
 
-   <p>
+.. code-block:: javascript
 
-::
-
-    var decorators = {    catch: function(f) {        return function() {            try {                f();            } catch(e) {                console.log(e);            }        };    }};
-
-.. raw:: html
-
-   </p>
+    var decorators = {
+        catch: function(f) {
+            return function() {
+                try {
+                    f();
+                } catch(e) {
+                    console.log(e);
+                }
+            };
+        }
+    };
 
 ``decorators.catch`` is the decorator function. It returns a function
 that executes the decorated function (``f``) in a try/catch block and
@@ -48,39 +48,31 @@ logs a message if an exception occurs.
 
 Decorating ``method`` with decorators.catch is done as follows:
 
-.. raw:: html
+.. code-block:: javascript
 
-   <p>
+    MyCtor.prototype = {
+        method: function(a, b)
+            decorators.catch(function() {
+                // do something with a and b
+            })()
+    };
 
-::
+``method`` now calls our decorator, and the actual logic of the method is moved
+in an anonymous function passed to the decorator. The anonymous function can
+still access the arguments ``a`` and ``b`` thanks to the closure.
 
-    MyCtor.prototype = {    method: function(a, b)        decorators.catch(function() {            // do something with a and b        })()};
+You may be wondering why ``decorators.catch`` delegates the decoration to an
+inner function as opposed to doing it itself. This is to be able to chain
+decoration. For example:
 
-.. raw:: html
+.. code-block:: javascript
 
-   </p>
-
-``method`` now calls our decorator, and the actual logic of the method
-
-is moved in an anonymous function passed to the decorator. The anonymous
-function can still access the arguments ``a`` and ``b`` thanks to the
-closure.
-
-You may be wondering why ``decorators.catch`` delegates the decoration
-to an inner function as opposed to doing it itself. This is to be able
-to chain decoration. For example:
-
-.. raw:: html
-
-   <p>
-
-::
-
-     MyCtor.prototype = {    method: function(a, b)        decorators.lock(decorators.catch(function() {            // do something with a and b        }))()};
-
-.. raw:: html
-
-   </p>
+     MyCtor.prototype = {
+        method: function(a, b)
+            decorators.lock(decorators.catch(function() {
+                // do something with a and b
+            }))()
+    };
 
 where ``decorators.lock`` would be a new decorator of ours.
 

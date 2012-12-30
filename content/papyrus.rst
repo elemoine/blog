@@ -24,7 +24,7 @@ The main module, `papyrus`_, provides conveniences for creating feature
 web services. For example, it provides a GeoJSON renderer, and a full
 implementation of the `MapFish Protocol`_.
 
-The`papyrus\_tilecache`_ and `pyramid\_mapproxy`_ modules make it easy
+The `papyrus\_tilecache`_ and `pyramid\_mapproxy`_ modules make it easy
 to embed `TileCache`_ and MapProxy in Pyramid apps, respectively.
 
 The `papyrus\_mapnik`_ module aims to ease using `Mapnik`_ in Pyramid
