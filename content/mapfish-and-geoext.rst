@@ -60,5 +60,4 @@ Wooo, two posts in two days, scarry... :-)
 
 .. _asked: http://www.geoext.org/pipermail/users/2009-April/000045.html
 .. _GeoExt: http://www.geoext.org
-.. _MapFish
-Protocol: http://www.mapfish.org/trac/mapfish/wiki/MapFishProtocol
+.. _MapFish Protocol: http://www.mapfish.org/trac/mapfish/wiki/MapFishProtocol

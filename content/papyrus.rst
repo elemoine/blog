@@ -52,8 +52,7 @@ Anyway, any feedback on Papyrus is welcome!
 .. _MapProxy: http://mapproxy.org/
 .. _Pyramid: http://docs.pylonsproject.org/docs/pyramid.html
 .. _papyrus: https://github.com/elemoine/papyrus
-.. _MapFish
-Protocol: http://trac.mapfish.org/trac/mapfish/wiki/MapFishProtocol
+.. _MapFish Protocol: http://trac.mapfish.org/trac/mapfish/wiki/MapFishProtocol
 .. _papyrus\_tilecache: https://github.com/elemoine/papyrus_tilecache
 .. _pyramid\_mapproxy: https://github.com/elemoine/papyrus_mapproxy
 .. _TileCache: http://tilecache.org/

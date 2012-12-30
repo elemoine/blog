@@ -110,8 +110,7 @@ And here's the final code:
 The End. Happy server-side JavaScript to all.
 
 .. _node.js: http://nodejs.org
-.. _jsconf
-slides: http://s3.amazonaws.com/four.livejournal/20091117/jsconf.pdf
+.. _jsconf slides: http://s3.amazonaws.com/four.livejournal/20091117/jsconf.pdf
 .. _postgres-js: http://github.com/creationix/postgres-js
 .. _OpenLayers: http://www.openlayers.org
 .. _modules doc: http://nodejs.org/api.html#_modules

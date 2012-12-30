@@ -39,8 +39,7 @@ the most about.
 .. _Patrick: http://patrick.blog.thus.ch/
 .. _page: https://trac.mapfish.org/trac/mapfish/wiki/PrintModuleDoc
 .. _support: https://trac.mapfish.org/trac/mapfish/ticket/197
-.. _MapFish
-Protocol: https://trac.mapfish.org/trac/mapfish/wiki/MapFishProtocol
+.. _MapFish Protocol: https://trac.mapfish.org/trac/mapfish/wiki/MapFishProtocol
 .. _here: http://dev.mapfish.org/sandbox/camptocamp/MapFishUnhcr/client/examples/editing/editing-panel.html
 .. _widgets/data: https://trac.mapfish.org/trac/mapfish/browser/trunk/MapFish/client/mfbase/mapfish/widgets/data
 .. _API doc: http://www.mapfish.org/apidoc/1.0
