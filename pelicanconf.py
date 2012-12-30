@@ -3,6 +3,7 @@
 
 AUTHOR = u'\xc9ric Lemoine'
 DEFAULT_LANG = u'en'
+DEFAULT_DATE = u'fs'
 DEFAULT_PAGINATION = 10
 DISPLAY_PAGES_ON_MENU = True
 #LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
