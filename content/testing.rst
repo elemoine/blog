@@ -2,7 +2,6 @@ Testing
 #######
 :date: 2009-06-30 11:37
 :author: Erilem
-:category: Uncategorized
 :tags: geoext, mapfish, openlayers, programming, testing
 
 I've been reading about testing. Here are a few words on my thoughts

@@ -2,7 +2,6 @@ Papyrus
 #######
 :date: 2011-07-09 07:25
 :author: Erilem
-:category: Uncategorized
 :tags: papyrus, pyramid
 
 A few days ago I pushed `papyrus\_mapproxy`_ on Github. The objective of

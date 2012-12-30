@@ -2,7 +2,6 @@ This blog
 #########
 :date: 2007-11-14 21:23
 :author: Erilem
-:category: Uncategorized
 
 My first post to tell what I'm up to with this blog. I'll be talking
 about technical stuff mostly related to my activities as a developer at

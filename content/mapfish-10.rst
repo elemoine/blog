@@ -2,7 +2,6 @@ MapFish 1.0
 ###########
 :date: 2008-10-17 07:58
 :author: Erilem
-:category: Uncategorized
 
 MapFish 1.0 is out!
 

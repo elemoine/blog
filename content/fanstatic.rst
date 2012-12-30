@@ -2,7 +2,6 @@ Fanstatic
 #########
 :date: 2011-10-15 21:08
 :author: Erilem
-:category: Uncategorized
 
 A Pyramid-based framework we work on at Camptocamp uses
 `pyramid\_formalchemy`_ and its companion module, `fa.jquery`_. The

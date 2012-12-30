@@ -2,7 +2,6 @@ MapFish and GeoExt
 ##################
 :date: 2009-04-19 20:40
 :author: Erilem
-:category: Uncategorized
 
 Matt Priour recently `asked`_ about the future of the client part of
 MapFish, and more specifically whether it will be replaced by `GeoExt`_.

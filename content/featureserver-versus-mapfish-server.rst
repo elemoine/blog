@@ -2,7 +2,6 @@ FeatureServer Versus MapFish Server
 ###################################
 :date: 2008-10-31 15:10
 :author: Erilem
-:category: Uncategorized
 
 I thought I could say a few words on the differences between
 `FeatureServer`_ and MapFish Server.

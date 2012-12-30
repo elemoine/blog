@@ -2,7 +2,6 @@ Y Combinator
 ############
 :date: 2009-07-02 19:08
 :author: Erilem
-:category: Uncategorized
 :tags: functional programming, python
 
 I've been reading "The Little Schemer" from Daniel P. Friedman and

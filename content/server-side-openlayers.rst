@@ -2,7 +2,6 @@ Server-side OpenLayers
 ######################
 :date: 2010-03-14 10:28
 :author: Erilem
-:category: Uncategorized
 :tags: javascript, node, openlayers
 
 I've been interested in server-side JavaScript lately. As a proof of

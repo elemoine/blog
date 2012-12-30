@@ -2,7 +2,6 @@ Secure TileCache With Pylons and Repoze
 #######################################
 :date: 2009-02-15 18:14
 :author: Erilem
-:category: Uncategorized
 
 This post shows how one can secure TileCache with Pylons and Repoze.
 

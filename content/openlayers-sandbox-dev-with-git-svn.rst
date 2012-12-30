@@ -2,7 +2,6 @@ OpenLayers sandbox dev with git svn
 ###################################
 :date: 2010-11-10 22:17
 :author: Erilem
-:category: Uncategorized
 
 I've been using git-svn for OpenLayers development for some time now.
 Although git-svn isn't so easy to work with, I'm quite happy with it for

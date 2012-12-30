@@ -2,7 +2,6 @@ Function decorators in JavaScript
 #################################
 :date: 2010-08-02 06:42
 :author: Erilem
-:category: Uncategorized
 
 I've been looking at how to implement function decorators in JavaScript.
 The FireFox Sync extension (`http://hg.mozilla.org/services/fx-sync`_)

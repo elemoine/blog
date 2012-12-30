@@ -2,7 +2,6 @@ Additions to the MapFish Protocol
 #################################
 :date: 2009-04-18 21:55
 :author: Erilem
-:category: Uncategorized
 
 We recently added new stuff to the MapFish Protocol.
 
