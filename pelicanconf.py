@@ -6,6 +6,7 @@ DEFAULT_LANG = u'en'
 DEFAULT_DATE = u'fs'
 DEFAULT_PAGINATION = 10
 DISPLAY_PAGES_ON_MENU = True
+FILES_TO_COPY = (('CNAME', 'CNAME'),)
 #LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
           #('Python.org', 'http://python.org'),
           #('Jinja2', 'http://jinja.pocoo.org'),
