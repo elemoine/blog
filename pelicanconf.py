@@ -2,11 +2,15 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = u'\xc9ric Lemoine'
+ARTICLE_EXCLUDES = (('pages', 'cv'))
 DEFAULT_LANG = u'en'
 DEFAULT_DATE = u'fs'
 DEFAULT_PAGINATION = 10
 DISPLAY_PAGES_ON_MENU = True
-FILES_TO_COPY = (('CNAME', 'CNAME'),)
+FILES_TO_COPY = (('CNAME', 'CNAME'),
+                 ('cv/cv.en.html', 'cv/cv.en.html'),
+                 ('cv/cv.css', 'cv/cv.css'),
+                 ('cv/cv.en.pdf', 'cv/cv.en.pdf'))
 #LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
           #('Python.org', 'http://python.org'),
           #('Jinja2', 'http://jinja.pocoo.org'),
