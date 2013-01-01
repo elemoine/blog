@@ -13,6 +13,8 @@ FILES_TO_COPY = (('CNAME', 'CNAME'),)
           #('You can modify those links in your config file', '#'),)
 SITENAME = u'\xc9ric Lemoine'
 SITEURL = 'http://erilem.net'
-SOCIAL = (('twitter', 'http://twitter.com/erilem'),
-          ('github', 'http://github.com/elemoine'))
+SOCIAL = (('Twitter', 'http://twitter.com/erilem'),
+          ('GitHub', 'http://github.com/elemoine'),
+          ('Google+', 'https://plus.google.com/u/1/101823398102994275785'),
+          ('Linkedin', 'http://www.linkedin.com/in/erilem'))
 TIMEZONE = 'Europe/Paris'
