@@ -4,6 +4,7 @@
 AUTHOR = u'\xc9ric Lemoine'
 ARTICLE_EXCLUDES = (('pages', 'cv'))
 DEFAULT_LANG = u'en'
+DEFAULT_CATEGORY = 'Misc'
 DEFAULT_DATE = u'fs'
 DEFAULT_PAGINATION = 10
 DISPLAY_PAGES_ON_MENU = True
