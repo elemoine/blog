@@ -7,7 +7,6 @@ DEFAULT_LANG = u'en'
 DEFAULT_CATEGORY = 'Misc'
 DEFAULT_DATE = u'fs'
 DEFAULT_PAGINATION = 10
-DISPLAY_PAGES_ON_MENU = True
 FILES_TO_COPY = (('CNAME', 'CNAME'),
                  ('cv/cv.en.html', 'cv/cv.en.html'),
                  ('cv/cv.css', 'cv/cv.css'),
