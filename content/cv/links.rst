@@ -9,16 +9,13 @@
 .. page. You can use the screen-only class for this.
 ..
 
-.. _web mapping: http://en.wikipedia.org/wiki/Web_mapping
-  
 .. _XHTML: http://www.w3.org/MarkUp/
 .. _CSS: http://www.w3.org/Style/CSS/
-
 .. _MPI: http://www.mcs.anl.gov/research/projects/mpi/
-.. _Ext: http://extjs.com
+.. _Ext JS: http://www.sencha.com/products/extjs/
+.. _Google Closure: https://developers.google.com/closure/
+.. _jQuery: http://jquery.org
 .. _OpenLayers: http://www.openlayers.org
-.. _GeoExt: http://www.geoext.org
-.. _Pylons: http://docs.pylonsproject.org
+.. _Pyramid: http://docs.pylonsproject.org
 .. _SQLAlchemy: http://www.sqlalchemy.org
-
 .. _Phd thesis: http://www.ens-lyon.fr/LIP/RESO/new_biblio/Year/2004.complete.html#PhDTh.lemoine.nouvelles.04
