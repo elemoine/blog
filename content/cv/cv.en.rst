@@ -19,7 +19,9 @@
 
 **Éric Lemoine**
 
-Python, JavaScript, and C developer, with a specialization in `web mapping`_.
+Python, JavaScript, and C developer.
+
+Solid Software Lover.
 
 :Age: 37
 :Email: Eric -DOT- Lemoine -AT- gmail -DOT- com
@@ -56,9 +58,9 @@ Internships
 
 Feb 2000 |--| Sep 2000
     | "Institut de Recherche en Informatique et Systèmes Aléatoires"
-    | Field: high-performance distributed computing
+    | Domain: high-performance distributed computing
     | Task: dev. of a parallel and distributed application with CORBA and MPI
-    | Technologies: C++, CORBA, `MPI`_
+    | Technology: C++, CORBA, `MPI`_
 
 -------------------------------------------------------------------------------
 Professional work
@@ -66,24 +68,24 @@ Professional work
 
 .. class:: with-title
 
-Feb 2007 |--| present
+Feb 2007 |--| **present**
     | Camptocamp
     | Title: senior developer, technical leader, open-source project member
     | Domain: geospatial, web, open-source
-    | Languages: Python, JavaScript, CSS, HTML
-    | Technologies: `Ext`_, `OpenLayers`_, `Pylons`_, `SQLAlchemy`_
+    | Language: Python, JavaScript, CSS, HTML
+    | Technology: `OpenLayers`_, `jQuery`_, `Ext JS`_, `Google Closure`_, `Pyramid`_, `SQLAlchemy`_
 Aug 2004 |--| Feb 2007
     | Sun Microsystems
     | Title: software engineer
     | Domain: high availability, system programming
-    | Languages: C, Java
-    | Technologies: Solaris, Sun Cluster, JMX
+    | Language: C, Java
+    | Technology: Solaris, Sun Cluster, JMX
 Sep 2001 |--| Aug 2004
     | Sun Microsystems and UCBL
     | Title: Phd student
     | Domain: High performance networking, multi-core and network CPUs
-    | Languages: C
-    | Technologies: Linux, TCP/IP, network device drivers
+    | Language: C, Assembly (RISC)
+    | Technology: Linux Kernel, TCP/IP, Network Interface Card
 
 -------------------------------------------------------------------------------
 Main computer skills
@@ -91,8 +93,8 @@ Main computer skills
 
 Languages
     | C, C++, Python, JavaScript, Perl, Java
-    | shell (bash, zsh, tsch)
-    | XML, HTML, CSS
+    | Shell (bash, zsh, tsch)
+    | HTML, CSS
 Programming tools
     | Git, Mercurial, SVN, CVS
     | gcc, gdb
