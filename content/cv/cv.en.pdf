@@ -28,14 +28,14 @@ endobj
 4 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://www.w3.org/MarkUp/) >>
+ /URI (http://www.mcs.anl.gov/research/projects/mpi/) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 321.5597
- 707.7736
- 358.5215
- 719.7736 ]
+ /Rect [ 205.5229
+ 260.7736
+ 223.3029
+ 272.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -43,14 +43,14 @@ endobj
 5 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://www.w3.org/Style/CSS/) >>
+ /URI (http://www.openlayers.org) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 378.2734
- 707.7736
- 401.9052
- 719.7736 ]
+ /Rect [ 139.9429
+ 140.7736
+ 194.4129
+ 152.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -58,14 +58,14 @@ endobj
 6 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://www.opera.com/) >>
+ /URI (http://jquery.org) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 79.37291
- 683.7736
- 109.9429
- 695.7736 ]
+ /Rect [ 199.9729
+ 140.7736
+ 229.4229
+ 152.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -73,14 +73,14 @@ endobj
 7 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://www.mozilla.org/products/firefox/) >>
+ /URI (http://www.sencha.com/products/extjs/) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 129.4029
- 683.7736
- 162.7429
- 695.7736 ]
+ /Rect [ 234.9829
+ 140.7736
+ 263.8829
+ 152.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -88,14 +88,14 @@ endobj
 8 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://www.windowsitpro.com/windowspaulthurrott/Article/ArticleID/47208/windowspaulthurrott_47208.html) >>
+ /URI (https://developers.google.com/closure/) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 243.8829
- 683.7736
- 301.6829
- 695.7736 ]
+ /Rect [ 269.4429
+ 140.7736
+ 338.9129
+ 152.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -103,14 +103,14 @@ endobj
 9 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://en.wikipedia.org/wiki/Web_mapping) >>
+ /URI (http://docs.pylonsproject.org) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 332.8129
- 647.7736
- 392.2829
- 659.7736 ]
+ /Rect [ 344.4729
+ 140.7736
+ 381.1429
+ 152.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -118,79 +118,19 @@ endobj
 10 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://www.mcs.anl.gov/research/projects/mpi/) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 213.3029
- 224.7736
- 231.0829
- 236.7736 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER8': class PDFDictionary 
-11 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://extjs.com) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 147.7229
- 104.7736
- 162.1729
- 116.7736 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER9': class PDFDictionary 
-12 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.openlayers.org) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 167.7329
- 104.7736
- 222.2029
- 116.7736 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER10': class PDFDictionary 
-13 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://docs.pylonsproject.org) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 227.7629
- 104.7736
- 257.7729
- 116.7736 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER11': class PDFDictionary 
-14 0 obj
-<< /A << /S /URI
- /Type /Action
  /URI (http://www.sqlalchemy.org) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 263.3329
- 104.7736
- 321.6829
- 116.7736 ]
+ /Rect [ 386.7029
+ 140.7736
+ 445.0529
+ 152.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page1': class PDFPage 
-15 0 obj
+11 0 obj
 % Page dictionary
 << /Annots [ 4 0 R
  5 0 R
@@ -198,17 +138,13 @@ endobj
  7 0 R
  8 0 R
  9 0 R
- 10 0 R
- 11 0 R
- 12 0 R
- 13 0 R
- 14 0 R ]
- /Contents 33 0 R
+ 10 0 R ]
+ /Contents 29 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 32 0 R
+ /Parent 28 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -219,8 +155,8 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'Annot.NUMBER12': class PDFDictionary 
-16 0 obj
+% 'Annot.NUMBER8': class PDFDictionary 
+12 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.ens-lyon.fr/LIP/RESO/new_biblio/Year/2004.complete.html#PhDTh.lemoine.nouvelles.04) >>
@@ -234,8 +170,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER13': class PDFDictionary 
-17 0 obj
+% 'Annot.NUMBER9': class PDFDictionary 
+13 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.ens-lyon.fr/LIP/RESO/new_biblio/Year/2003.complete.html#TechR.lefevre.lemoine.pham.ea.fast.03) >>
@@ -249,8 +185,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER14': class PDFDictionary 
-18 0 obj
+% 'Annot.NUMBER10': class PDFDictionary 
+14 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.ens-lyon.fr/LIP/RESO/new_biblio/Year/2003.complete.html#TechR.lemoine.pham.lefevre.packet.03) >>
@@ -265,17 +201,17 @@ endobj
  /Type /Annot >>
 endobj
 % 'Page2': class PDFPage 
-19 0 obj
+15 0 obj
 % Page dictionary
-<< /Annots [ 16 0 R
- 17 0 R
- 18 0 R ]
- /Contents 34 0 R
+<< /Annots [ 12 0 R
+ 13 0 R
+ 14 0 R ]
+ /Contents 30 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 32 0 R
+ /Parent 28 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -286,8 +222,8 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'Annot.NUMBER15': class PDFDictionary 
-20 0 obj
+% 'Annot.NUMBER11': class PDFDictionary 
+16 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.ens-lyon.fr/LIP/RESO/new_biblio/Year/2004.complete.html#InPro.lemoine.pham.lefevre.packet.04) >>
@@ -301,8 +237,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER16': class PDFDictionary 
-21 0 obj
+% 'Annot.NUMBER12': class PDFDictionary 
+17 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.ens-lyon.fr/LIP/RESO/new_biblio/Year/2004.complete.html#TechR.lemoine.pham.lefevre.new.04) >>
@@ -317,16 +253,16 @@ endobj
  /Type /Annot >>
 endobj
 % 'Page3': class PDFPage 
-22 0 obj
+18 0 obj
 % Page dictionary
-<< /Annots [ 20 0 R
- 21 0 R ]
- /Contents 35 0 R
+<< /Annots [ 16 0 R
+ 17 0 R ]
+ /Contents 31 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 32 0 R
+ /Parent 28 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -337,115 +273,115 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'R23': class PDFCatalog 
-23 0 obj
+% 'R19': class PDFCatalog 
+19 0 obj
 % Document Root
-<< /Outlines 25 0 R
- /PageLabels 36 0 R
+<< /Outlines 21 0 R
+ /PageLabels 32 0 R
  /PageMode /UseNone
- /Pages 32 0 R
+ /Pages 28 0 R
  /Type /Catalog >>
 endobj
-% 'R24': class PDFInfo 
-24 0 obj
+% 'R20': class PDFInfo 
+20 0 obj
 << /Author ()
- /CreationDate (D:20121229213012-01'00')
+ /CreationDate (D:20130102010529-01'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
  /Title (Curriculum Vitae) >>
 endobj
-% 'R25': class PDFOutlines 
-25 0 obj
+% 'R21': class PDFOutlines 
+21 0 obj
 << /Count 6
- /First 26 0 R
- /Last 31 0 R
+ /First 22 0 R
+ /Last 27 0 R
  /Type /Outlines >>
 endobj
 % 'Outline.0': class OutlineEntryObject 
-26 0 obj
-<< /Dest [ 15 0 R
+22 0 obj
+<< /Dest [ 11 0 R
  /XYZ
  62.69291
- 599.0236
+ 635.0236
  0 ]
- /Next 27 0 R
- /Parent 25 0 R
+ /Next 23 0 R
+ /Parent 21 0 R
  /Title (Education) >>
 endobj
 % 'Outline.1': class OutlineEntryObject 
-27 0 obj
-<< /Dest [ 15 0 R
+23 0 obj
+<< /Dest [ 11 0 R
  /XYZ
  62.69291
- 320.0236
+ 356.0236
  0 ]
- /Next 28 0 R
- /Parent 25 0 R
- /Prev 26 0 R
+ /Next 24 0 R
+ /Parent 21 0 R
+ /Prev 22 0 R
  /Title (Internships) >>
 endobj
 % 'Outline.2': class OutlineEntryObject 
-28 0 obj
-<< /Dest [ 15 0 R
+24 0 obj
+<< /Dest [ 11 0 R
  /XYZ
  62.69291
- 212.0236
+ 248.0236
  0 ]
- /Next 29 0 R
- /Parent 25 0 R
- /Prev 27 0 R
+ /Next 25 0 R
+ /Parent 21 0 R
+ /Prev 23 0 R
  /Title (Professional work) >>
 endobj
 % 'Outline.3': class OutlineEntryObject 
-29 0 obj
-<< /Dest [ 19 0 R
+25 0 obj
+<< /Dest [ 15 0 R
  /XYZ
  62.69291
  587.0236
  0 ]
- /Next 30 0 R
- /Parent 25 0 R
- /Prev 28 0 R
+ /Next 26 0 R
+ /Parent 21 0 R
+ /Prev 24 0 R
  /Title (Main computer skills) >>
 endobj
 % 'Outline.4': class OutlineEntryObject 
-30 0 obj
-<< /Dest [ 19 0 R
+26 0 obj
+<< /Dest [ 15 0 R
  /XYZ
  62.69291
  332.0236
  0 ]
- /Next 31 0 R
- /Parent 25 0 R
- /Prev 29 0 R
+ /Next 27 0 R
+ /Parent 21 0 R
+ /Prev 25 0 R
  /Title (Publications) >>
 endobj
 % 'Outline.5': class OutlineEntryObject 
-31 0 obj
-<< /Dest [ 22 0 R
+27 0 obj
+<< /Dest [ 18 0 R
  /XYZ
  62.69291
  624.0236
  0 ]
- /Parent 25 0 R
- /Prev 30 0 R
+ /Parent 21 0 R
+ /Prev 26 0 R
  /Title (Social and personal skills) >>
 endobj
-% 'R32': class PDFPages 
-32 0 obj
+% 'R28': class PDFPages 
+28 0 obj
 % page tree
 << /Count 3
- /Kids [ 15 0 R
- 19 0 R
- 22 0 R ]
+ /Kids [ 11 0 R
+ 15 0 R
+ 18 0 R ]
  /Type /Pages >>
 endobj
-% 'R33': class PDFStream 
-33 0 obj
+% 'R29': class PDFStream 
+29 0 obj
 % page stream
-<< /Length 6686 >>
+<< /Length 6100 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -455,28 +391,30 @@ BT 1 0 0 1 0 4 Tm 154.9249 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Curriculum Vitae) Tj T
 Q
 Q
 q
-1 0 0 1 62.69291 683.0236 cm
-q
-BT 1 0 0 1 0 38 Tm .676235 Tw 12 TL /F1 10 Tf 0 0 0 rg (Notice: you are using Microsoft Internet Explorer, or a text-based browser \(in which case you can ignore) Tj T* 0 Tw .29186 Tw (this note\). Internet Explorer does not properly support the ) Tj 0 0 .501961 rg (XHTML ) Tj 0 0 0 rg (and ) Tj 0 0 .501961 rg (CSS ) Tj 0 0 0 rg (standards used to render this) Tj T* 0 Tw .011488 Tw (page the way it is supposed to look. The information is still all there, but for a better result, please consider) Tj T* 0 Tw (the ) Tj 0 0 .501961 rg (Opera ) Tj 0 0 0 rg (and ) Tj 0 0 .501961 rg (Firefox ) Tj 0 0 0 rg (browsers instead. ) Tj 0 0 .501961 rg (Read more...) Tj 0 0 0 rg (.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 665.0236 cm
+1 0 0 1 62.69291 719.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (\311ric Lemoine) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 647.0236 cm
+1 0 0 1 62.69291 701.0236 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Python, JavaScript, and C developer, with a specialization in ) Tj 0 0 .501961 rg (web mapping) Tj 0 0 0 rg (.) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Python, JavaScript, and C developer.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 641.0236 cm
+1 0 0 1 62.69291 683.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Solid Software Lover.) Tj T* ET
+Q
 Q
 q
-1 0 0 1 62.69291 626.0236 cm
+1 0 0 1 62.69291 677.0236 cm
+Q
+q
+1 0 0 1 62.69291 662.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -497,7 +435,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 611.0236 cm
+1 0 0 1 62.69291 647.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -518,20 +456,20 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 578.0236 cm
+1 0 0 1 62.69291 614.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Education) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 560.0236 cm
+1 0 0 1 62.69291 596.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Sep 2001 \226 Jul 2004) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 515.0236 cm
+1 0 0 1 62.69291 551.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 32 Tm  T* ET
@@ -566,14 +504,14 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 499.0236 cm
+1 0 0 1 62.69291 535.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Sep 2000 \226 Sep 2001) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 454.0236 cm
+1 0 0 1 62.69291 490.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 32 Tm  T* ET
@@ -608,14 +546,14 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 438.0236 cm
+1 0 0 1 62.69291 474.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Sep 1999 \226 Sep 2000) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 393.0236 cm
+1 0 0 1 62.69291 429.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 32 Tm  T* ET
@@ -650,14 +588,14 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 377.0236 cm
+1 0 0 1 62.69291 413.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Sep 1996 \226 Jul 1999) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 332.0236 cm
+1 0 0 1 62.69291 368.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 32 Tm  T* ET
@@ -692,20 +630,20 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 299.0236 cm
+1 0 0 1 62.69291 335.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Internships) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 281.0236 cm
+1 0 0 1 62.69291 317.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Feb 2000 \226 Sep 2000) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 224.0236 cm
+1 0 0 1 62.69291 260.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 44 Tm  T* ET
@@ -723,7 +661,7 @@ q
 1 0 0 1 20 24 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Field: high-performance distributed computing) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Domain: high-performance distributed computing) Tj T* ET
 Q
 Q
 q
@@ -736,7 +674,7 @@ Q
 q
 1 0 0 1 20 0 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Technologies: C++, CORBA, ) Tj 0 0 .501961 rg (MPI) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Technology: C++, CORBA, ) Tj 0 0 .501961 rg (MPI) Tj T* ET
 Q
 Q
 q
@@ -746,20 +684,19 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 191.0236 cm
+1 0 0 1 62.69291 227.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Professional work) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 173.0236 cm
+1 0 0 1 62.69291 209.0236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Feb 2007 \226 present) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Feb 2007 \226 present) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 104.0236 cm
+1 0 0 1 62.69291 140.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 56 Tm  T* ET
@@ -791,13 +728,13 @@ q
 1 0 0 1 20 12 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Languages: Python, JavaScript, CSS, HTML) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Language: Python, JavaScript, CSS, HTML) Tj T* ET
 Q
 Q
 q
 1 0 0 1 20 0 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Technologies: ) Tj 0 0 .501961 rg (Ext) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (OpenLayers) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (Pylons) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (SQLAlchemy) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Technology: ) Tj 0 0 .501961 rg (OpenLayers) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (jQuery) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (Ext JS) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (Google Closure) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (Pyramid) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (SQLAlchemy) Tj T* ET
 Q
 Q
 q
@@ -809,10 +746,10 @@ Q
  
 endstream
 endobj
-% 'R34': class PDFStream 
-34 0 obj
+% 'R30': class PDFStream 
+30 0 obj
 % page stream
-<< /Length 5631 >>
+<< /Length 5646 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -855,14 +792,14 @@ q
 1 0 0 1 20 12 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Languages: C, Java) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Language: C, Java) Tj T* ET
 Q
 Q
 q
 1 0 0 1 20 0 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Technologies: Solaris, Sun Cluster, JMX) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Technology: Solaris, Sun Cluster, JMX) Tj T* ET
 Q
 Q
 q
@@ -911,14 +848,14 @@ q
 1 0 0 1 20 12 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Languages: C) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Language: C, Assembly \(RISC\)) Tj T* ET
 Q
 Q
 q
 1 0 0 1 20 0 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Technologies: Linux, TCP/IP, network device drivers) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Technology: Linux Kernel, TCP/IP, Network Interface Card) Tj T* ET
 Q
 Q
 q
@@ -959,14 +896,14 @@ q
 1 0 0 1 20 12 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (shell \(bash, zsh, tsch\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Shell \(bash, zsh, tsch\)) Tj T* ET
 Q
 Q
 q
 1 0 0 1 20 0 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (XML, HTML, CSS) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HTML, CSS) Tj T* ET
 Q
 Q
 q
@@ -1179,8 +1116,8 @@ Q
  
 endstream
 endobj
-% 'R35': class PDFStream 
-35 0 obj
+% 'R31': class PDFStream 
+31 0 obj
 % page stream
 << /Length 3665 >>
 stream
@@ -1409,84 +1346,80 @@ Q
  
 endstream
 endobj
-% 'R36': class PDFPageLabels 
-36 0 obj
+% 'R32': class PDFPageLabels 
+32 0 obj
 % Document Root
 << /Nums [ 0
- 37 0 R
+ 33 0 R
  1
- 38 0 R
+ 34 0 R
  2
- 39 0 R ] >>
+ 35 0 R ] >>
 endobj
-% 'R37': class PDFPageLabel 
-37 0 obj
+% 'R33': class PDFPageLabel 
+33 0 obj
 % None
 << /S /D
  /St 1 >>
 endobj
-% 'R38': class PDFPageLabel 
-38 0 obj
+% 'R34': class PDFPageLabel 
+34 0 obj
 % None
 << /S /D
  /St 2 >>
 endobj
-% 'R39': class PDFPageLabel 
-39 0 obj
+% 'R35': class PDFPageLabel 
+35 0 obj
 % None
 << /S /D
  /St 3 >>
 endobj
 xref
-0 40
+0 36
 0000000000 65535 f
 0000000113 00000 n
 0000000221 00000 n
 0000000386 00000 n
 0000000573 00000 n
-0000000816 00000 n
-0000001062 00000 n
-0000001301 00000 n
-0000001559 00000 n
-0000001879 00000 n
-0000002137 00000 n
-0000002401 00000 n
-0000002636 00000 n
-0000002881 00000 n
-0000003130 00000 n
-0000003360 00000 n
-0000003760 00000 n
-0000004073 00000 n
-0000004397 00000 n
-0000004705 00000 n
-0000005039 00000 n
-0000005362 00000 n
-0000005667 00000 n
-0000005978 00000 n
-0000006137 00000 n
-0000006401 00000 n
-0000006526 00000 n
-0000006696 00000 n
-0000006883 00000 n
-0000007076 00000 n
-0000007272 00000 n
-0000007460 00000 n
-0000007631 00000 n
-0000007757 00000 n
-0000014542 00000 n
-0000020272 00000 n
-0000024040 00000 n
-0000024159 00000 n
-0000024236 00000 n
-0000024313 00000 n
+0000000836 00000 n
+0000001079 00000 n
+0000001314 00000 n
+0000001569 00000 n
+0000001825 00000 n
+0000002072 00000 n
+0000002302 00000 n
+0000002665 00000 n
+0000002977 00000 n
+0000003301 00000 n
+0000003609 00000 n
+0000003943 00000 n
+0000004266 00000 n
+0000004571 00000 n
+0000004882 00000 n
+0000005041 00000 n
+0000005305 00000 n
+0000005430 00000 n
+0000005600 00000 n
+0000005787 00000 n
+0000005980 00000 n
+0000006176 00000 n
+0000006364 00000 n
+0000006535 00000 n
+0000006661 00000 n
+0000012860 00000 n
+0000018605 00000 n
+0000022373 00000 n
+0000022492 00000 n
+0000022569 00000 n
+0000022646 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\031\301S\274\015\024\346\222c\323\010\036\303\237\211\236) (\031\301S\274\015\024\346\222c\323\010\036\303\237\211\236)] 
+ [(\005n\325'\321\177z\204M\225\210R\372q\234\304) (\005n\325'\321\177z\204M\225\210R\372q\234\304)] 
 
- /Info 24 0 R
- /Root 23 0 R
- /Size 40 >>
+ /Info 20 0 R
+ /Root 19 0 R
+ /Size 36 >>
 startxref
-24360
+22693
 %%EOF
