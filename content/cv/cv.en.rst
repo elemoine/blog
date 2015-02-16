@@ -15,8 +15,6 @@
                                 Curriculum Vitae
 ===============================================================================
 
-.. include:: ie-note.rst
-
 **Éric Lemoine**
 
 Python, JavaScript, and C developer.
