@@ -5,9 +5,9 @@ A response to Iván's "Leaflet vs OpenLayers" talk
 :tags: OpenLayers 3, Leaflet, FOSS4G
 
 This blog post is a response to Iván Sánchez Ortega's "Leaflet vs OpenLayers 3"
-talk, which he gave at FOSS4G Seoul. I, as an OpenLayers developer, would like
-to defend OpenLayers and provide some comments that I think are important
-making.
+`talk <https://github.com/IvanSanchez/leaflet-vs-openlayers-slides>`_, which he
+gave at FOSS4G Seoul. I, as an OpenLayers developer, would like to defend
+OpenLayers and provide some comments that I think are important making.
 
 Newbie Friendliness
 -------------------
