@@ -12,9 +12,10 @@ It is based on the `Fuel devops page
 documentation, but uses shortcuts, and relies on ``virtualenv`` as much as
 posssible (more than the official documentation does).
 
-I created this post mainly for me, from notes I took when I set up my
-development environment the very first time. I'll update this post as
-I discover ``fuel-devops``.
+This post is by no means a replacement for the official documentation. I wrote
+it mainly for me, from notes I took when I set up my development environment
+the very first time. I'll update this post as I discover things about
+``fuel-devops``.
 
 Ubuntu 14.04 (Trusty) is assumed.
 
