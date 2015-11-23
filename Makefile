@@ -36,11 +36,14 @@ help:
 	@echo '                                                                       '
 
 
-html: clean $(OUTPUTDIR)/index.html
+html: clean $(OUTPUTDIR)/index.html $(OUTPUTDIR)/CNAME $(OUTPUTDIR)/keybase.txt
 	@echo 'Done'
 
 $(OUTPUTDIR)/%.html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
+
+$(OUTPUTDIR)/%: $(INPUTDIR)/%
+	cp $< $@
 
 clean:
 	find $(OUTPUTDIR) -mindepth 1 -delete
