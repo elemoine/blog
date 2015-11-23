@@ -23,9 +23,10 @@ Install system packages
 
 Run the following command to install the required system packages::
 
-    $ sudo apt-get install git postgresql postgresql-server-dev-all \ libyaml-dev
-    libffi-dev python-dev qemu-kvm libvirt-bin \ libvirt-dev ubuntu-vm-builder
-    bridge-utils \ libpg-dev libgmp-dev
+    $ sudo apt-get install git postgresql postgresql-server-dev-all \
+        libyaml-dev libffi-dev python-dev qemu-kvm libvirt-bin \
+        libvirt-dev ubuntu-vm-builder bridge-utils \
+        libpg-dev libgmp-dev
 
 You will also need to install ``python-pip`` and ``python-virtuaenv`` if you
 don't have ``pip`` and ``virtualenv`` installed::
