@@ -126,6 +126,12 @@ And run this command to create the Fuel node (a.k.a. Fuel master)::
 choice really. But make sure you use the same environment when running
 ``system_tests.sh`` again to add nodes to the OpenStack cluster.
 
+The ``-t`` and ``-j`` flags are used to set the task name and job name,
+respectively. Really, these flag make sense when ``system_tests.sh`` is run
+from Jenkins, which is how the devops team uses the script. In our case any
+value can be used for these flags, and the same values can be used for multiple
+environments.
+
 Create Fuel slaves
 ------------------
 
