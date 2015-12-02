@@ -57,8 +57,8 @@ Configure ``libvirt`` pool
 Create a ``libvirt`` persistent pool and start it::
 
     $ sudo virsh pool-define-as --type=dir --name=default --target=/var/lib/libvirt/images
-    $ sudo virsh pool-autostart default sudo
-    $ virsh pool-start default
+    $ sudo virsh pool-autostart default
+    $ sudo virsh pool-start default
 
 ``/var/lib/libvirt/images`` is where QEMU QCOW images will be stored, so make
 sure this directory is attached to a file system with sufficient storage.
