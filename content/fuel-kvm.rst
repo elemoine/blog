@@ -67,6 +67,9 @@ Make your user a member of the ``libvirtd`` group::
 
    $ sudo usermod $(whoami) -a -G libvirtd
 
+For your user to effectively be a member of ``libvirt`` you need to create
+a new login session, implying logging out and logging in again.
+
 Configure the PostgreSQL database
 ---------------------------------
 
@@ -74,10 +77,12 @@ Create a database and database user::
 
     $ sudo sed -ir 's/peer/trust/' /etc/postgresql/9.*/main/pg_hba.conf
     $ sudo service postgresql restart
-    $ sudo -u postgres createuser -P fuel_devops # see default <user> and <db> below
+    $ sudo -u postgres createuser -P fuel_devops  # pick any password
     $ sudo -u postgres createdb fuel_devops -O fuel_devops
     $ django-admin.py syncdb --settings=devops.settings
     $ django-admin.py migrate devops --settings=devops.settings
+
+You can choose any password for the ``fuel_devops`` database user.
 
 Check that nested KVM is enabled
 --------------------------------
