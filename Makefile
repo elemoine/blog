@@ -36,8 +36,12 @@ help:
 	@echo '                                                                       '
 
 
-html: clean $(OUTPUTDIR)/index.html $(OUTPUTDIR)/CNAME $(OUTPUTDIR)/keybase.txt
+html: clean $(OUTPUTDIR)/index.html $(OUTPUTDIR)/CNAME $(OUTPUTDIR)/keybase.txt $(OUTPUTDIR)/cv/cv.en.html $(OUTPUTDIR)/cv/cv.en.pdf $(OUTPUTDIR)/cv/cv.css
 	@echo 'Done'
+
+$(OUTPUTDIR)/cv/cv.%: $(INPUTDIR)/cv/cv.%
+	mkdir -p $(dir $@)
+	cp $< $@
 
 $(OUTPUTDIR)/%.html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
