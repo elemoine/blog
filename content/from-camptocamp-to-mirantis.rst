@@ -28,7 +28,7 @@ So here I am, working in the Logging, Monitoring and Alerting team at Mirantis.
 I just finished my third week, so the whole business is still very very new to
 me.  But I feel that I've already learned quite a lot; things that I understood
 but were a bit abstract are now getting more palpable. The mission of my team
-is to to build an end-to-end monitoring solution for OpenStack that can scale
+is to build an end-to-end monitoring solution for OpenStack that can scale
 to thousands of nodes. I think it's a great mission! We use great technologies
 like Heka, Kafka and influxDB to accomplish our mission.
 
