@@ -39,17 +39,13 @@ the user site, i.e. in ``~/.local``. See my `dotfiles' Makefile
 <https://github.com/elemoine/dotfiles/blob/master/Makefile>`_ if you want to
 know how.
 
-Create virtual environment and install ``fuel-devops``
-------------------------------------------------------
+Create virtual environment
+--------------------------
 
 Create a virtual environment::
 
     $ cd /some/path
-    $ virtualenv fuel-devops-venv
-
-Now install ``fuel-devops`` in the virtual environment just created::
-
-    $ ./fuel-devops-venv/bin/pip install git+https://github.com/openstack/fuel-devops.git@2.9.12
+    $ virtualenv fuel-qa
 
 Configure ``libvirt`` pool
 --------------------------
@@ -70,15 +66,13 @@ Make your user a member of the ``libvirtd`` group::
 For your user to effectively be a member of ``libvirt`` you need to create
 a new login session, implying logging out and logging in again.
 
-Configure the PostgreSQL database
+Create database and database user
 ---------------------------------
 
 Create a database and database user::
 
     $ sudo -u postgres createuser -P fuel_devops  # use "fuel_devops" as the password!
     $ sudo -u postgres createdb fuel_devops -O fuel_devops
-    $ django-admin.py syncdb --settings=devops.settings
-    $ django-admin.py migrate devops --settings=devops.settings
 
 Check that nested KVM is enabled
 --------------------------------
@@ -99,19 +93,31 @@ Create environment using ``fuel-qa``
 Clone the ``fuel-qa`` repository::
 
     $ git clone https://github.com/openstack/fuel-qa
+    $ git checkout e9e6761
     $ cd fuel-qa
+
+Note that we use `commit e9e6761 <https://github.com/openstack/fuel-qa/commit/6bcec5b14d43e025021ac5ca3f896ff418660902>`_
+of ``fuel-qa`` because more recent commits do not work with Fuel 7.
 
 Install requirements in the virtual environment::
 
-    $ source /some/path/fuel-devops-venv/bin/activate
+    $ source /some/path/fuel-qa/bin/activate
     $ pip install -r ./fuelweb_test/requirements.txt
+
+This, among other things, will install ``fuel-devops`` in the virtual
+environment.
+
+Now set up the database::
+
+    $ django-admin.py syncdb --settings=devops.settings
+    $ django-admin.py migrate devops --settings=devops.settings
 
 Download a Fuel ISO image
 -------------------------
 
-You now need to download a Fuel ISO image from the `Fuel CI website
-<https://ci.fuel-infra.org/view/ISO/>`_. I personally use
-``MirantisOpenStack-7.0.iso``.
+The current stable version of Fuel is 7.0. The Fuel 7.0 ISO image can be
+downloaded from `Rackspace CDN <http://9f2b43d3ab92f886c3f0-e8d43ffad23ec549234584e5c62a6e24.r60.cf1.rackcdn.com/MirantisOpenStack-7.0.iso>`_.
+The image's MD5 sum is ``4548cc07dcf733d1a7364bf1c978590a``.
 
 Create Fuel node
 ----------------
