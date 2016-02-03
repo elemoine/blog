@@ -97,7 +97,9 @@ Clone the ``fuel-qa`` repository::
     $ git checkout e9e6761
 
 Note that we use `commit e9e6761 <https://github.com/openstack/fuel-qa/commit/6bcec5b14d43e025021ac5ca3f896ff418660902>`_
-of ``fuel-qa`` because more recent commits do not work with Fuel 7.
+of ``fuel-qa`` because more recent commits do not work with Fuel 7. The
+`master` branch should work if you use Fuel 8 (not released at time of
+this writing).
 
 Install requirements in the virtual environment::
 
