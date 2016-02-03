@@ -93,8 +93,8 @@ Create environment using ``fuel-qa``
 Clone the ``fuel-qa`` repository::
 
     $ git clone https://github.com/openstack/fuel-qa
-    $ git checkout e9e6761
     $ cd fuel-qa
+    $ git checkout e9e6761
 
 Note that we use `commit e9e6761 <https://github.com/openstack/fuel-qa/commit/6bcec5b14d43e025021ac5ca3f896ff418660902>`_
 of ``fuel-qa`` because more recent commits do not work with Fuel 7.
