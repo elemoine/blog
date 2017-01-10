@@ -14,7 +14,7 @@ include OpenStack, Kubernetes, Elasticsearch, InfluxDB, Heka/Hindsight, Salt.
 I even wrote code in Golang and Lua, which I didn't know before. I didn't
 become an expert in any of those technologies, but I now better understand
 OpenStack and container orchestration technologies like Kubernetes, and I've
-gained quite some experience with the fields of logging and monitoring. It was
+gained quite some experience in the fields of logging and monitoring. It was
 also great to be closer to system administration and automation, and get my
 hands dirty with things like Linux networking again. I really enjoyed that.
 I decided to leave Mirantis mainly because of the layoff wave that hit the
