@@ -36,7 +36,7 @@ help:
 	@echo '                                                                       '
 
 
-html: clean $(OUTPUTDIR)/index.html $(OUTPUTDIR)/CNAME $(OUTPUTDIR)/keybase.txt $(OUTPUTDIR)/cv/cv.en.html $(OUTPUTDIR)/cv/cv.en.pdf $(OUTPUTDIR)/cv/cv.css
+html: clean $(OUTPUTDIR)/index.html $(OUTPUTDIR)/CNAME $(OUTPUTDIR)/keybase.txt $(OUTPUTDIR)/eric-lemoine-openpgp4fpr.png $(OUTPUTDIR)/cv/cv.en.html $(OUTPUTDIR)/cv/cv.en.pdf $(OUTPUTDIR)/cv/cv.css
 	@echo 'Done'
 
 $(OUTPUTDIR)/cv/cv.%: $(INPUTDIR)/cv/cv.%
