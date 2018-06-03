@@ -31,7 +31,6 @@ ARTICLE_EXCLUDES = ['cv']
 STATIC_PATHS = ['cv/cv.en.html',
                 'cv/cv.en.pdf',
                 'cv/cv.css',
-                'CNAME',
                 'keybase.txt',
                 'eric-lemoine-openpgp4fpr.png']
 DEFAULT_CATEGORY = 'Blog'
