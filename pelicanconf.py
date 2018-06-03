@@ -20,10 +20,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Social widget
-SOCIAL = (('Twitter', 'http://twitter.com/erilem'),
-          ('GitHub', 'http://github.com/elemoine'),
+SOCIAL = (('Twitter', 'httsp://twitter.com/erilem'),
+          ('GitHub', 'https://github.com/elemoine'),
           ('Google+', 'https://plus.google.com/u/1/101823398102994275785'),
-          ('Linkedin', 'http://www.linkedin.com/in/erilem'))
+          ('Linkedin', 'https://www.linkedin.com/in/erilem'))
 
 DEFAULT_PAGINATION = 10
 
