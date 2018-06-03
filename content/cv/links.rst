@@ -9,8 +9,6 @@
 .. page. You can use the screen-only class for this.
 ..
 
-.. _XHTML: http://www.w3.org/MarkUp/
-.. _CSS: http://www.w3.org/Style/CSS/
 .. _MPI: http://www.mcs.anl.gov/research/projects/mpi/
 .. _Ext JS: http://www.sencha.com/products/extjs/
 .. _Google Closure: https://developers.google.com/closure/
@@ -19,3 +17,6 @@
 .. _Pyramid: http://docs.pylonsproject.org
 .. _SQLAlchemy: http://www.sqlalchemy.org
 .. _Phd thesis: http://www.ens-lyon.fr/LIP/RESO/new_biblio/Year/2004.complete.html#PhDTh.lemoine.nouvelles.04
+.. _OpenStack: https://www.openstack.org/
+.. _Kubernetes: https://kubernetes.io/
+.. _Docker: https://www.docker.com/

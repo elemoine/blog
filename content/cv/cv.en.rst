@@ -19,9 +19,9 @@
 
 Python, JavaScript, and C developer.
 
-Solid Software Lover.
+Simple and Solid Software Lover.
 
-:Age: 39
+:Age: 42
 :Email: Eric -DOT- Lemoine -AT- gmail -DOT- com
 
 -------------------------------------------------------------------------------
@@ -66,7 +66,19 @@ Professional work
 
 .. class:: with-title
 
-Feb 2007 |--| **present**
+Jan 2017 |--| **present**
+    | Oslandia
+    | Title: senior developer
+    | Domain: geospatial, open-source, 3D (pointclouds)
+    | Language: Python, C, SQL (plpgsql)
+    | Technology: PostgreSQL, PostGIS, Pointcloud, Docker, Ansible
+Nov 2015 |--| Dec 2016
+    | Mirantis
+    | Title: senior software engineer
+    | Domain: OpenStack, Kubernetes, Docker, monitoring, infrastructure, cloud
+    | Language: Python, Lua, Golang
+    | Technology: Puppet, Salt, Ansible, Elasticsearch, InfluxDB, OpenStack, Kubernetes
+Feb 2007 |--| Nov 2015
     | Camptocamp
     | Title: senior developer, technical leader, open-source project member
     | Domain: geospatial, web, open-source
@@ -101,8 +113,11 @@ Operating systems
     | Linux (admin, user-level and kernel-level programming)
     | Solaris (admin, user-level programming)
 Databases
-    | PostgreSQL, SQLite, MySQL
+    | PostgreSQL, SQLite, MySQL, InfluxDB, Elasticsearch
     | PostGIS, Spatialite
+Infrastructure tools
+    | Puppet, Salt, Ansible
+    | `OpenStack`_, `Kubernetes`_, `Docker`_
 
 -------------------------------------------------------------------------------
 Publications
@@ -139,8 +154,7 @@ Social and personal skills
 -------------------------------------------------------------------------------
 
 * Passionate software developer
-* Linux user and enthusiat for 10 years
-* Open-source believer
+* Linux user and enthusiat for 15 years
 * Autodidact, especially when related to computer concepts
 * Competent in providing guidance and leadership to others
 
