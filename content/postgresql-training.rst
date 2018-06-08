@@ -41,7 +41,7 @@ for higher-level features.
 With the hands-on exercises I discovered the ``pg_buffercache`` extension. This extension allows
 getting information about all the blocks of the PostgreSQL instance's *shared buffers* memory. It
 tells about what objects use the blocks, what blocks are dirty, etc. For example here's a query
-that return the 5 objects that use the most memory::
+that returns the 5 objects that use the most memory::
 
 	SELECT c.relname,
 		   c.relkind,
