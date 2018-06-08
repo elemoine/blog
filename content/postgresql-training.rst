@@ -33,7 +33,7 @@ Checkpointer (explaining the differences between the two is beyond the scope of 
 the event of a crash, the database can be recovered by replaying the operations recorded in the
 journal.
 
-What's really really cool that WAL is the basis for other cool features such as on-line backup,
+What's really really cool is that WAL is the basis for other cool features such as on-line backup,
 point-in-time recovery and replication! The Postgres project is indeed really good at building
 things in a gradual manner, with the low-level stuff being built first, and providing the foundation
 for higher-level features.
