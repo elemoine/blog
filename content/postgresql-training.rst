@@ -158,7 +158,7 @@ Some conclusion
 The notes in this blog post just touches the surface of the topics discussed. They also certainly
 take shortcuts. What I love about PostgreSQL is its transparency. In particular the excellent
 documentation is very transparent on the way PostgreSQL works internally. For example the
-`Pointcloud extension <https://github.com/pgpointcloud/pointcloud>`_ I work defines types that
+`Pointcloud extension <https://github.com/pgpointcloud/pointcloud>`_ I work on defines types that
 support the ``TOAST`` interface, and I've found `the TOAST doc
 <https://www.postgresql.org/docs/current/static/storage-toast.html>`_ very clear and informative!
 
