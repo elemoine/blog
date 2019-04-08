@@ -17,11 +17,13 @@
 
 **Éric Lemoine**
 
-Python, JavaScript, and C developer.
+Python, JavaScript, and C developer
 
-Simple and Solid Software Lover.
+Simple and Solid Software Lover
 
-:Age: 42
+With a taste for Linux System Administration
+
+:Age: 43
 :Email: Eric -DOT- Lemoine -AT- gmail -DOT- com
 
 -------------------------------------------------------------------------------
@@ -58,7 +60,7 @@ Feb 2000 |--| Sep 2000
     | "Institut de Recherche en Informatique et Systèmes Aléatoires"
     | Domain: high-performance distributed computing
     | Task: dev. of a parallel and distributed application with CORBA and MPI
-    | Technology: C++, CORBA, `MPI`_
+    | Technology: C++, CORBA, MPI
 
 -------------------------------------------------------------------------------
 Professional work
@@ -70,20 +72,23 @@ Jan 2017 |--| **present**
     | Oslandia
     | Title: senior developer
     | Domain: geospatial, open-source, 3D (pointclouds)
-    | Language: Python, C, SQL (plpgsql)
-    | Technology: PostgreSQL, PostGIS, Pointcloud, Docker, Ansible
+    | Language: Python, C, SQL (PL/pgSQL)
+    | Technology: PostgreSQL, PostGIS, QGIS Server, Pandas, Numpy, Docker, Ansible
+    | Open-source: `PGPointcloud`_, `GeoAlchemy`_
 Nov 2015 |--| Dec 2016
     | Mirantis
     | Title: senior software engineer
     | Domain: OpenStack, Kubernetes, Docker, monitoring, infrastructure, cloud
     | Language: Python, Lua, Golang
     | Technology: Puppet, Salt, Ansible, Elasticsearch, InfluxDB, OpenStack, Kubernetes
+    | Open-source: `OpenStack Kolla`_
 Feb 2007 |--| Nov 2015
     | Camptocamp
     | Title: senior developer, technical leader, open-source project member
     | Domain: geospatial, web, open-source
     | Language: Python, JavaScript, CSS, HTML
-    | Technology: `OpenLayers`_, `jQuery`_, `Ext JS`_, `Google Closure`_, `Pyramid`_, `SQLAlchemy`_
+    | Technology: `OpenLayers`_, jQuery, Ext JS, Google Closure, Pyramid, SQLAlchemy
+    | Open-source: `GeoAlchemy_`
 Aug 2004 |--| Feb 2007
     | Sun Microsystems
     | Title: software engineer
@@ -102,7 +107,8 @@ Main computer skills
 -------------------------------------------------------------------------------
 
 Languages
-    | C, C++, Python, JavaScript, Perl, Java
+    | C, Python, JavaScript
+    | C++, Perl, Golang (to a lesser extent)
     | Shell (bash, zsh, tsch)
     | HTML, CSS
 Programming tools
@@ -117,7 +123,7 @@ Databases
     | PostGIS, Spatialite
 Infrastructure tools
     | Puppet, Salt, Ansible
-    | `OpenStack`_, `Kubernetes`_, `Docker`_
+    | OpenStack, Kubernetes, Docker
 
 -------------------------------------------------------------------------------
 Publications
@@ -157,6 +163,7 @@ Social and personal skills
 * Linux user and enthusiat for 15 years
 * Autodidact, especially when related to computer concepts
 * Competent in providing guidance and leadership to others
+* Dvorak/BÉPO typist
 
 .. class:: online-notes
 

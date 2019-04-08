@@ -9,14 +9,8 @@
 .. page. You can use the screen-only class for this.
 ..
 
-.. _MPI: http://www.mcs.anl.gov/research/projects/mpi/
-.. _Ext JS: http://www.sencha.com/products/extjs/
-.. _Google Closure: https://developers.google.com/closure/
-.. _jQuery: http://jquery.org
 .. _OpenLayers: http://www.openlayers.org
-.. _Pyramid: http://docs.pylonsproject.org
-.. _SQLAlchemy: http://www.sqlalchemy.org
 .. _Phd thesis: http://www.ens-lyon.fr/LIP/RESO/new_biblio/Year/2004.complete.html#PhDTh.lemoine.nouvelles.04
-.. _OpenStack: https://www.openstack.org/
-.. _Kubernetes: https://kubernetes.io/
-.. _Docker: https://www.docker.com/
+.. _PGPointcloud: https://github.com/pgpointcloud/pointcloud
+.. _GeoAlchemy: http://geoalchemy-2.readthedocs.io/
+.. _OpenStack Kolla: https://wiki.openstack.org/wiki/Kolla
